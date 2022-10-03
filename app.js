@@ -1,3 +1,10 @@
+/*
+Student: Brian Duong
+Student#: 300741880
+Due Date: Oct 2nd, 2022
+COMP229 Section 008
+*/
+
 // installed 3rd part packages
 let createError = require('http-errors');
 let express = require('express');
